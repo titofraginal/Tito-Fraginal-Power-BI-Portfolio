@@ -18,3 +18,5 @@ This dashboard features the data from Microsoft's AdventureWorks Database, a Mic
 
 This dashboard features local Philippine pricing data of computer hardware such as GPU, CPU, RAM and storage from Hardware Sugar's Price Watch Sheet and historical data from shopee items. 
 This was created to analyze the price trend of computer hardware due to the The "AI Boom RAM-pocalypse" which refers to the current, severe shortage and skyrocketing prices of computer memory (RAM) driven by massive AI data center demand, squeezing consumers and PC builders as manufacturers shift focus to high-margin AI chips, leading to price hikes on laptops, gaming PCs, and more, with some predicting shortages lasting into 2027-2028
+
+![image alt](https://github.com/titofraginal/Tito-Fraginal-Power-BI-Portfolio/blob/3d845b6e9fd0299c9887b50fb84db9a3f77c1e67/Hardware%20Sugar%20Price%20Watch/3-RAM.png)
