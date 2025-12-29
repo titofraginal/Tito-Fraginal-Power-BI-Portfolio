@@ -6,7 +6,7 @@
 This was my entry for the Power BI Pilipinas Community Data Challenge 2025 featuring flood control data extracted from Project DIME (Digital Information for Monitoring and Evaluation)
 This dashboard was one of the Top 10 Winners out of 50+ entries
 
-![](PH Flood Control Monitoring/1-Overview.png)
+![](Tito-Fraginal-Power-BI-Portfolio/PH Flood Control Monitoring/1-Overview.png)
 
 # Project 2: Adventure Works Dashboard
 
