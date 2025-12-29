@@ -12,6 +12,8 @@ This dashboard was one of the Top 10 Winners out of 50+ entries
 
 This dashboard features the data from Microsoft's AdventureWorks Database, a Microsoft product sample for an online transaction processing(OLTP) database. The AdventureWorks database supports a fictitious, multinational manufacturing company called Adventure Works Cycles
 
+![image alt](https://github.com/titofraginal/Tito-Fraginal-Power-BI-Portfolio/blob/5ac8db69e1602ada00bc467aa998463f8fb5afc8/AdventureWorks%20Dashboard/1-Executive%20Summary.png)
+
 # Project 3: Hardware Sugar Price Watch
 
 This dashboard features local Philippine pricing data of computer hardware such as GPU, CPU, RAM and storage from Hardware Sugar's Price Watch Sheet and historical data from shopee items. 
