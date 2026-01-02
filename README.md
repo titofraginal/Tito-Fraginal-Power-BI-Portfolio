@@ -7,12 +7,17 @@ This was my entry for the Power BI Pilipinas Community Data Challenge 2025 featu
 This dashboard was one of the Top 10 Winners out of 50+ entries
 
 ![image alt](https://github.com/titofraginal/Tito-Fraginal-Power-BI-Portfolio/blob/837e4398351defc3a9d91e4ae365fdb164ca6de1/PH%20Flood%20Control%20Monitoring/1-Overview.png)
+![image alt](https://github.com/titofraginal/Tito-Fraginal-Power-BI-Portfolio/blob/main/PH%20Flood%20Control%20Monitoring/2-Region.png)
+![image alt](https://github.com/titofraginal/Tito-Fraginal-Power-BI-Portfolio/blob/main/PH%20Flood%20Control%20Monitoring/6-Ghost%20Projects.png)
+![image alt](https://github.com/titofraginal/Tito-Fraginal-Power-BI-Portfolio/blob/main/PH%20Flood%20Control%20Monitoring/7-Rappler%20Politicontractors.png)
+![image alt](https://github.com/titofraginal/Tito-Fraginal-Power-BI-Portfolio/blob/main/PH%20Flood%20Control%20Monitoring/9-Discaya.png)
 
 # Project 2: Adventure Works Dashboard
 
 This dashboard features the data from Microsoft's AdventureWorks Database, a Microsoft product sample for an online transaction processing(OLTP) database. The AdventureWorks database supports a fictitious, multinational manufacturing company called Adventure Works Cycles
 
 ![image alt](https://github.com/titofraginal/Tito-Fraginal-Power-BI-Portfolio/blob/5ac8db69e1602ada00bc467aa998463f8fb5afc8/AdventureWorks%20Dashboard/1-Executive%20Summary.png)
+![image alt](AdventureWorks Dashboard/2-Customer Demographics.png)
 
 # Project 3: Hardware Sugar Price Watch
 
